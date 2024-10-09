@@ -1,0 +1,7 @@
+D:\oop\курсач\oopCourse3\course3\obj\Debug\course3.csproj.AssemblyReference.cache
+D:\oop\курсач\oopCourse3\course3\obj\Debug\course3.csproj.CoreCompileInputs.cache
+D:\oop\курсач\oopCourse3\course3\bin\Debug\course3.exe.config
+D:\oop\курсач\oopCourse3\course3\bin\Debug\course3.exe
+D:\oop\курсач\oopCourse3\course3\bin\Debug\course3.pdb
+D:\oop\курсач\oopCourse3\course3\obj\Debug\course3.exe
+D:\oop\курсач\oopCourse3\course3\obj\Debug\course3.pdb
